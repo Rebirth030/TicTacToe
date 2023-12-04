@@ -34,6 +34,6 @@ fun selectField(field: Field)
 fun checkEndingGame()
 {}
 ```
-![image](https://github.com/Caruzo42/TicTacToe/assets/129787753/1dcfb8b5-0c09-443d-bf34-f2ebca9a47e4)
-![image](https://github.com/Caruzo42/TicTacToe/assets/129787753/9eebcaf7-6a4a-4961-9037-5d55f1c7dd86)
+![image](img.png)
+![image](img2.png)
 
