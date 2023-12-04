@@ -37,7 +37,6 @@ val cryptos = listOf(
     - Preis
     - Rank
     - Marketcap
-3. Automatische Aktualisierung alle 30 Sekunden
 
 ### Mockup
 ![img.png](img.png)
