@@ -17,6 +17,8 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -24,16 +26,20 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.viewmodel.compose.*
+import androidx.lifecycle.viewmodel.compose.viewModel
 import de.hhn.tictactoe.model.Status
 import de.hhn.tictactoe.R
+import de.hhn.tictactoe.controller.TTTViewModel
 import de.hhn.tictactoe.model.Field
 import de.hhn.tictactoe.model.GameModel
 
 @ExperimentalMaterial3Api
 @Composable
-fun HomeScreen() {
+fun HomeScreen(tttViewModel : TTTViewModel = viewModel()) {
     // currentGame, gameField are Dummy data
-    val currentGame = GameModel()
+    val currentGame by tttViewModel.gameModel.collectAsState()
     val gameField =  Array(3) {
         Array(3) {
             Field()
