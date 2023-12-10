@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0d30460-0680-433f-93fe-d08af9db3634" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/androidTest/java/com/example/cryptohack/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/CryptoViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/network/AssetService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/network/AssetsResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/network/CryptoCurrency.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/java/com/example/cryptohack/view/HomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/app/src/test/java/com/example/cryptohack/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebungsaufgabe_Cryptohack/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/androidTest/java/de/hhn/aib7/mplab/counter/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/java/de/hhn/aib7/mplab/counter/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/java/de/hhn/aib7/mplab/counter/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/java/de/hhn/aib7/mplab/counter/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/java/de/hhn/aib7/mplab/counter/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/app/src/test/java/de/hhn/aib7/mplab/counter/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remember_counter/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/androidTest/java/de/hhn/aib7/mplab/counter/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/java/de/hhn/aib7/mplab/counter/CounterSavedViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/java/de/hhn/aib7/mplab/counter/CounterViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/java/de/hhn/aib7/mplab/counter/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/java/de/hhn/aib7/mplab/counter/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/java/de/hhn/aib7/mplab/counter/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/java/de/hhn/aib7/mplab/counter/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/app/src/test/java/de/hhn/aib7/mplab/counter/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewmodel_counter/settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Z8TYamFMmorPiV0ZamgpHFNhGu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/juli/AndroidStudioProjects/TicTacToe/Leistungsnachweis_TicTacToe"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d30460-0680-433f-93fe-d08af9db3634" name="Changes" comment="" />
+      <created>1701802754175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701802754175</updated>
+    </task>
+    <servers />
+  </component>
+</project>

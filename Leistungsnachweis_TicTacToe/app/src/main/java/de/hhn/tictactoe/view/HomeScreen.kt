@@ -37,14 +37,9 @@ import de.hhn.tictactoe.model.GameModel
 
 @ExperimentalMaterial3Api
 @Composable
-fun HomeScreen(tttViewModel : TTTViewModel = viewModel()) {
-    // currentGame, gameField are Dummy data
+fun HomeScreen(tttViewModel : TTTViewModel) {
     val currentGame by tttViewModel.gameModel.collectAsState()
-    val gameField =  Array(3) {
-        Array(3) {
-            Field()
-        }
-    }
+    val gameField by tttViewModel.gameField.collectAsState()
 
     val currentPlayer = currentGame.currentPlayer
     val isGameEnding: Boolean = currentGame.isGameEnding
@@ -126,7 +121,7 @@ fun HomeScreen(tttViewModel : TTTViewModel = viewModel()) {
                                     .height(111.dp)
                                     .width(111.dp),
                                 onClick = {
-                                    // TODO:
+                                    tttViewModel.selectField(field)
                                 }
                             ) {
                                 Box(
